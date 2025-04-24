@@ -1,16 +1,23 @@
-# Yummy
+## Yummy – Flutter Restaurant App
 
-A new Flutter project.
+Yummy is a cross-platform restaurant application developed using Flutter. It serves as a practical implementation of concepts from Kodeco's "Flutter Apprentice" course, showcasing features like menu browsing, platform-specific UI adaptations, and responsive design.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+- Cross-platform support for Android, iOS, web, macOS, Windows, and Linux
+- Modular code structure adhering to Flutter best practices
+- Utilizes Dart for efficient development
 
-A few resources to get you started if this is your first Flutter project:
+### Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run the app locally:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Ensure Flutter is installed on your machine.
+2. Clone the repository:
+   git clone https://github.com/sowban-mohd/yummy.git
+3. Navigate to the project directory:
+   cd yummy
+4. Fetch the dependencies:
+   flutter pub get
+5. Run the app:
+   flutter run
