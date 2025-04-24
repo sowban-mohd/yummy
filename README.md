@@ -10,7 +10,7 @@ Yummy is a cross-platform restaurant application developed using Flutter. It ser
 
 ### Getting Started
 
-To run the app locally:
+To run the app locally:
 
 1. Ensure Flutter is installed on your machine.
 2. Clone the repository:
